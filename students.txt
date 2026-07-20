@@ -1,0 +1,4 @@
+101,alice,CSE
+102,Bob,AIML
+103,Charlie,ECE
+104,David,ISE
