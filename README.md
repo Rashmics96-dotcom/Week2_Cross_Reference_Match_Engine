@@ -125,7 +125,7 @@ Marks      : 88
 
 ## Execution Snapshot
 
-! [Program Output](output.png)
+![Program Output](output.png)
 
 ---
 
