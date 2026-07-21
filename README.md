@@ -125,7 +125,7 @@ Marks      : 88
 
 ## Execution Snapshot
 
-> Add a screenshot of the successful terminal output here before final submission.
+! [Program Output](output.png)
 
 ---
 
